@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoreScreen</string>
+    <string name="arg">Аргентина</string>
+    <string name="brz">Бразилия</string>
+    <string name="chi">Чили</string>
+    <string name="col">Колумбия</string>
+    <string name="ykt">Якутия</string>
+</resources>
